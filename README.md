@@ -25,9 +25,9 @@ I specialize in building PWAs web Apps.
 <a href="https://www.facebook.com/emad.adin.92" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://instagram.com/emadworks" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> -->
+<a href="https://tiktok.com/emadworks" target="_blank">
+<img src=https://img.shields.io/badge/tiktok-000009?&style=for-the-badge&logo=tiktok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.youtube.com/user/devdiary" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
